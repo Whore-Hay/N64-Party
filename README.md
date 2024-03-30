@@ -5,6 +5,8 @@ This font supports Latin, Advanced Latin character set, Cyrillic, and Japanese C
 
 It also includes a all black version that removes the purple outline and yellow/orange gradient incase anyone wants to create their own colored variations while designing.
 
+If anyone would like to donate to me for any reason you can do so through my [Kofi](https://ko-fi.com/wh0rehay) page. Any donation is appreciated.
+
 ![N64 Party Font Release 1](https://github.com/Whore-Hay/Mario-Party-1-3-Font/assets/72058932/5beec9d5-90e5-4b99-b0d2-0e4ddb0e44dd)
 ![N64 Party Font Release 2](https://github.com/Whore-Hay/Mario-Party-1-3-Font/assets/72058932/d737618d-dc9a-470f-9fe2-b9a2a0fe0bbf)
 ![N64 Party Font Release 3](https://github.com/Whore-Hay/Mario-Party-1-3-Font/assets/72058932/ff01e30d-5035-42aa-86f0-90b2cd6ec7f1)
